@@ -1,3 +1,5 @@
+<img width="960" height="503" alt="{FBF6E851-361C-4D0A-B593-2031F33F3C29}" src="https://github.com/user-attachments/assets/9cabcb03-4ff0-402b-aa6c-df0b59c5a33c" />
+
 ## Why this tool?
 
 Comparing Excel files sounds simple until you need it for real work:
